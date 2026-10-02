@@ -1,7 +1,7 @@
 # A Survey on Foundational Concepts of Zero-Knowledge Proofs
 
 **Author:** Nadia Afsar  
-**Date:** October 2026  
+**Date:** September 2026  
 **Affiliation:** Sharif University of Technology, Department of Mathematical Sciences
 
 ## Overview
